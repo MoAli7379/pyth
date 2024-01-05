@@ -1,5 +1,4 @@
-autopep8==1.6.0
-gunicorn==21.2.0
-packaging==23.2
-pycodestyle==2.8.0
-toml==0.10.2
+bip32utils~=0.3.post4
+flask~=3.0.0
+mnemonic~=0.20
+web3~=6.13.0
